@@ -1,6 +1,9 @@
 # SPA-contacts-app
 EBAC: M32 - SPA Contact App - Typescript + React + Redux
 
+Project published into Vercel, [click here to go](https://spa-contacts-app.vercel.app/)
+
+
 ## Main Board
 ![image](https://github.com/LeyserPinto/SPA-contacts-app/assets/59316466/abcc66d2-789f-4750-acae-36c572514b43)
 
